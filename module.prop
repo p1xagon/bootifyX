@@ -1,0 +1,7 @@
+id=bootifyx
+name=bootifyX
+version=v1.0.0
+versionCode=1
+author=p1xagon
+description=Systemless-подмена bootanimation.zip для Xiaomi/POCO/Redmi на HyperOS. Свой архив кладется в /sdcard/BootAnim/ и применяется через Action.
+updateJson=https://raw.githubusercontent.com/p1xagon/bootifyX/main/update.json
